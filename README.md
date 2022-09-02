@@ -1,4 +1,6 @@
-# AngularIssue
+# Angular Issue
+
+Demonstrate that Angular 14 generates workspaces targeted at ES2020.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
